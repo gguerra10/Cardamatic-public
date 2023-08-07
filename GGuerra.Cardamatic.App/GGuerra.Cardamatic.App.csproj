@@ -21,8 +21,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="..\packages\GGuerra.Cardamatic.CardReader.SamSw.dll" />
-    <Reference Include="..\packages\GGuerra.Cardamatic.CardReader.Desfire.dll" />
+    <Reference Include="..\libs\GGuerra.Cardamatic.CardReader.SamSw.dll" />
+    <Reference Include="..\libs\GGuerra.Cardamatic.CardReader.Desfire.dll" />
   </ItemGroup>
 
   <ItemGroup>
