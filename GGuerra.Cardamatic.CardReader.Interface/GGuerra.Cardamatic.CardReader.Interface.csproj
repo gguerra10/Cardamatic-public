@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Version>0.0.1</Version>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GGuerra.Cardamatic.CardReader.Common\GGuerra.Cardamatic.CardReader.Common.csproj" />
+  </ItemGroup>
+
+</Project>

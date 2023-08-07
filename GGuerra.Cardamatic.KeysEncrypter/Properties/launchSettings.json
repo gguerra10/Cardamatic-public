@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GGuerra.Cardamatic.KeysEncrypter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\gabriel\\OneDrive\\Escritorio\\MASTER\\TFM\\GGF.CardMap.Sample\\GGuerra.Cardamatic.App\\Keys\\Default_0000.json"
+    }
+  }
+}

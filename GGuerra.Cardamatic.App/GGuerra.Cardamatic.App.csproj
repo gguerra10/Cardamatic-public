@@ -1,0 +1,76 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <Version>0.0.1</Version>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NLog" />
+    <PackageReference Include="NLog.Extensions.Logging" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" />
+    <PackageReference Include="Microsoft.Extensions.DependencyModel" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="..\packages\GGuerra.Cardamatic.CardReader.SamSw.dll" />
+    <Reference Include="..\packages\GGuerra.Cardamatic.CardReader.Desfire.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GGuerra.Cardamatic.WinForm\GGuerra.Cardamatic.WinForm.csproj" />
+    
+    <ProjectReference Include="..\GGuerra.Cardamatic.CardReader.Pcsc\GGuerra.Cardamatic.CardReader.Pcsc.csproj" />
+    <ProjectReference Include="..\GGuerra.Cardamatic.Encoding\GGuerra.Cardamatic.Encoding.csproj" />
+    <ProjectReference Include="..\GGuerra.Cardamatic.Encoding.System\GGuerra.Cardamatic.Encoding.System.csproj" />
+    <ProjectReference Include="..\GGuerra.Cardamatic.Encoding.Date\GGuerra.Cardamatic.Encoding.Date.csproj" />
+    <ProjectReference Include="..\GGuerra.Cardamatic.Encoding.DateTime\GGuerra.Cardamatic.Encoding.DateTime.csproj" />
+    <ProjectReference Include="..\GGuerra.Cardamatic.Encoding.Time\GGuerra.Cardamatic.Encoding.Time.csproj" />
+    <ProjectReference Include="..\GGuerra.Cardamatic.Encoding.Balance\GGuerra.Cardamatic.Encoding.Balance.csproj" />
+    <ProjectReference Include="..\GGuerra.Cardamatic.Encoding.HexString\GGuerra.Cardamatic.Encoding.HexString.csproj" />
+    <ProjectReference Include="..\GGuerra.Cardamatic.Encoding.BinaryString\GGuerra.Cardamatic.Encoding.BinaryString.csproj" />
+    <ProjectReference Include="..\GGuerra.Cardamatic.Encoding.Checksum\GGuerra.Cardamatic.Encoding.Checksum.csproj" />
+
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+    <Content Include="appSettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="nlog.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+    <Content Include="Cards\*.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Keys\*.key">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Schemas\*.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+    <Folder Include="Cards\" />
+  </ItemGroup>
+
+
+</Project>

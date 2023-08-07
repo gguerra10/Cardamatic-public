@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Version>0.0.1</Version>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PCSC" />
+    <PackageReference Include="PCSC.Iso7816" />
+    <PackageReference Include="PCSC.Reactive" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GGuerra.Cardamatic.Base\GGuerra.Cardamatic.Base.csproj" />
+    <ProjectReference Include="..\GGuerra.Cardamatic.CardReader.Common\GGuerra.Cardamatic.CardReader.Common.csproj" />
+    <ProjectReference Include="..\GGuerra.Cardamatic.CardReader.Interface\GGuerra.Cardamatic.CardReader.Interface.csproj" />
+    <ProjectReference Include="..\GGuerra.Cardamatic.Extensions\GGuerra.Cardamatic.Extensions.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Configuration\PcscCardReaderConfiguration.json" />
+  </ItemGroup>
+
+</Project>

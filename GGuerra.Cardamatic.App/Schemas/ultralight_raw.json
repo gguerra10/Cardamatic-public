@@ -1,0 +1,133 @@
+{
+  "Description": "Ultralight RAW",
+  "ContactlessTechnology": "Ultralight",
+  "Tabs": [
+    {
+      "Description": "Raw content",
+      "Columns": [
+        {
+          "Description": "Raw Data (0-7)",
+          "Properties": [
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Page0",
+              "address": 0,
+              "offset": 0,
+              "length": 4
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Page1",
+              "address": 1,
+              "offset": 0,
+              "length": 4
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Page2",
+              "address": 2,
+              "offset": 0,
+              "length": 4
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Page3",
+              "address": 3,
+              "offset": 0,
+              "length": 4
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Page4",
+              "address": 4,
+              "offset": 0,
+              "length": 4
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Page5",
+              "address": 5,
+              "offset": 0,
+              "length": 4
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Page6",
+              "address": 6,
+              "offset": 0,
+              "length": 4
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Page7",
+              "address": 7,
+              "offset": 0,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "Description": "Raw Data (8-15)",
+          "Properties": [
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Page8",
+              "address": 8,
+              "offset": 0,
+              "length": 4
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Page9",
+              "address": 9,
+              "offset": 0,
+              "length": 4
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Page10",
+              "address": 10,
+              "offset": 0,
+              "length": 4
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Page11",
+              "address": 11,
+              "offset": 0,
+              "length": 4
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Page12",
+              "address": 12,
+              "offset": 0,
+              "length": 4
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Page13",
+              "address": 13,
+              "offset": 0,
+              "length": 4
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Page14",
+              "address": 14,
+              "offset": 0,
+              "length": 4
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Page15",
+              "address": 15,
+              "offset": 0,
+              "length": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "Description": "Mifare keys (default: 00)",
+  "MifareClassicKeys": [
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "0",
+      "KeyType": "TypeA"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "1",
+      "KeyType": "TypeA"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "2",
+      "KeyType": "TypeA"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "3",
+      "KeyType": "TypeA"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "4",
+      "KeyType": "TypeA"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "5",
+      "KeyType": "TypeA"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "6",
+      "KeyType": "TypeA"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "7",
+      "KeyType": "TypeA"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "8",
+      "KeyType": "TypeA"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "9",
+      "KeyType": "TypeA"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "10",
+      "KeyType": "TypeA"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "11",
+      "KeyType": "TypeA"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "12",
+      "KeyType": "TypeA"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "13",
+      "KeyType": "TypeA"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "14",
+      "KeyType": "TypeA"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "15",
+      "KeyType": "TypeA"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "0",
+      "KeyType": "TypeB"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "1",
+      "KeyType": "TypeB"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "2",
+      "KeyType": "TypeB"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "3",
+      "KeyType": "TypeB"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "4",
+      "KeyType": "TypeB"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "5",
+      "KeyType": "TypeB"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "6",
+      "KeyType": "TypeB"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "7",
+      "KeyType": "TypeB"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "8",
+      "KeyType": "TypeB"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "9",
+      "KeyType": "TypeB"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "10",
+      "KeyType": "TypeB"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "11",
+      "KeyType": "TypeB"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "12",
+      "KeyType": "TypeB"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "13",
+      "KeyType": "TypeB"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "14",
+      "KeyType": "TypeB"
+    },
+    {
+      "Key": "000000000000",
+      "KeyNo": "0",
+      "Address": "15",
+      "KeyType": "TypeB"
+    }
+  ]
+}

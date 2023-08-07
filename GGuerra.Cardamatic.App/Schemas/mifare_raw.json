@@ -1,0 +1,504 @@
+{
+  "Description": "Mifare RAW",
+  "ContactlessTechnology": "MifareClassic",
+  "Tabs": [
+    {
+      "Description": "Raw content",
+      "Columns": [
+        {
+          "Description": "Raw Data (0-7)",
+          "Properties": [
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block0",
+              "address": 0,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block1",
+              "address": 1,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block2",
+              "address": 2,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block3",
+              "address": 3,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block4",
+              "address": 4,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block5",
+              "address": 5,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block6",
+              "address": 6,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block7",
+              "address": 7,
+              "offset": 0,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "Description": "Raw Data (8-15)",
+          "Properties": [
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block8",
+              "address": 8,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block9",
+              "address": 9,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block10",
+              "address": 10,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block11",
+              "address": 11,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block12",
+              "address": 12,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block13",
+              "address": 13,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block14",
+              "address": 14,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block15",
+              "address": 15,
+              "offset": 0,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "Description": "Raw Data (16-32)",
+          "Properties": [
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block16",
+              "address": 16,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block17",
+              "address": 17,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block18",
+              "address": 18,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block19",
+              "address": 19,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block20",
+              "address": 20,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block21",
+              "address": 21,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block22",
+              "address": 22,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block23",
+              "address": 23,
+              "offset": 0,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "Description": "Raw Data (24-32)",
+          "Properties": [
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block24",
+              "address": 24,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block25",
+              "address": 25,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block26",
+              "address": 26,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block27",
+              "address": 27,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block28",
+              "address": 28,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block29",
+              "address": 29,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block30",
+              "address": 30,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block31",
+              "address": 31,
+              "offset": 0,
+              "length": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Description": "Raw content",
+      "Columns": [
+        {
+          "Description": "Raw Data (32-39)",
+          "Properties": [
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block32",
+              "address": 32,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block33",
+              "address": 33,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block34",
+              "address": 34,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block35",
+              "address": 35,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block36",
+              "address": 36,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block37",
+              "address": 37,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block38",
+              "address": 38,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block39",
+              "address": 39,
+              "offset": 0,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "Description": "Raw Data (40-47)",
+          "Properties": [
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block40",
+              "address": 40,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block41",
+              "address": 41,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block42",
+              "address": 42,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block43",
+              "address": 43,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block44",
+              "address": 44,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block45",
+              "address": 45,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block46",
+              "address": 46,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block47",
+              "address": 47,
+              "offset": 0,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "Description": "Raw Data (48-55)",
+          "Properties": [
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block48",
+              "address": 48,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block49",
+              "address": 49,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block50",
+              "address": 50,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block51",
+              "address": 51,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block52",
+              "address": 52,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block53",
+              "address": 53,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block54",
+              "address": 54,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block55",
+              "address": 55,
+              "offset": 0,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "Description": "Raw Data (56-63)",
+          "Properties": [
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block56",
+              "address": 56,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block57",
+              "address": 57,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block58",
+              "address": 58,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block59",
+              "address": 59,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block60",
+              "address": 60,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block61",
+              "address": 61,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block62",
+              "address": 62,
+              "offset": 0,
+              "length": 16
+            },
+            {
+              "typeName": "GGuerra.Cardamatic.Encoding.HexString.HexString",
+              "name": "Block63",
+              "address": 63,
+              "offset": 0,
+              "length": 16
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
