@@ -2,7 +2,7 @@
 
 Cardamatic is a tool that uses DSL (Domain Specific Language) to map the content of MiFare card memory to a graphical user interface. This repository contains the source code for all public components.
 
-## Contenido
+## Content
 
 1. [Introduction](#introduction)
 2. [Components](#components)
@@ -11,7 +11,9 @@ Cardamatic is a tool that uses DSL (Domain Specific Language) to map the content
 ## Introduction
 
 This project focuses on mapping the memory of transport cards to a graphical interface using a DSL. The DSL allows you to define memory schemas and efficiently map transport card data to graphical elements.
+Data conversion from card.
 ![Data conversion from card](https://github.com/gguerra10/Cardamatic-public/blob/master/doc/card-2-data.png?raw=true)
+Data conversion to card.
 ![Data conversion to card](https://github.com/gguerra10/Cardamatic-public/blob/master/doc/data-2-card.png?raw=true)
 
 
